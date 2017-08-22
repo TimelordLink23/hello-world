@@ -1,2 +1,5 @@
 # hello-world
-Hello World!
+
+Hi class!
+
+Randal Robin here, I love anything and everything electronics.
